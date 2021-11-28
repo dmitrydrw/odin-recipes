@@ -1,0 +1,9 @@
+ul {
+    list-style: circle;
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+    list-style: lower-latin;
+}
